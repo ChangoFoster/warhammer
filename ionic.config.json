@@ -1,0 +1,7 @@
+{
+  "name": "warhammer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
